@@ -87,7 +87,7 @@ Me chamo João Pedro Leal e tenho 18 anos. Sou uma pessoa dedicada, com princíp
 
 ### 📊 Estatísticas
 
-| <a href="https://github.com/Joaoplsr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Joaoplsr&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="João Pedro github stats" /></a> | <a href="https://github.com/Joaoplsr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoplsr&layout=compact&theme=gruvbox&hide_border=true" /></a> |
+| <a href="https://github.com/Joaoplsr/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Joaoplsr&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="João Pedro github stats" /></a> | <a href="https://github.com/Joaoplsr/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoplsr&layout=compact&theme=gruvbox&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 </p>
