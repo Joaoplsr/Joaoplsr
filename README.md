@@ -94,10 +94,10 @@ Me chamo João Pedro Leal e tenho 18 anos. Sou uma pessoa dedicada, com princíp
 
 #### Melhores Repositórios	
 
-<a href="https://github.com/Joaoplsr/github-readme-stats">
+<a href="https://github.com/Joaoplsr/cha-de-casa-nova">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joaoplsr&repo=cha-de-casa-nova&theme=gruvbox&hide_border=true" />
 </a>
-<a href="https://github.com/Joaoplsr/Joaoplsr.github.io">
+<a href="https://github.com/Joaoplsr/CEBP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joaoplsr&repo=CEBP&theme=gruvbox&hide_border=true" />
 </a>
 
