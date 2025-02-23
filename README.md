@@ -93,6 +93,7 @@ Me chamo João Pedro Leal e tenho 18 anos. Sou uma pessoa dedicada, com princíp
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
+    style="padding-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Joaoplsr&show_icons=true&theme=gruvbox&include_all_commits=true&locale=PT-br" 
   />
 
