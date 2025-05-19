@@ -102,11 +102,11 @@ Me chamo João Pedro Leal e tenho 18 anos. Sou uma pessoa dedicada, com princíp
 
 #### Melhores Repositórios	
 
-<a href="https://github.com/Joaoplsr/cha-de-casa-nova">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joaoplsr&repo=cha-de-casa-nova&theme=gruvbox&hide_border=true" />
+<a href="https://github.com/Joaoplsr/graphoart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joaoplsr&repo=graphoart&theme=gruvbox&hide_border=true" />
 </a>
-<a href="https://github.com/Joaoplsr/CEBP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joaoplsr&repo=CEBP&theme=gruvbox&hide_border=true" />
+<a href="https://github.com/Joaoplsr/portfolio-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joaoplsr&repo=portfolio-project&theme=gruvbox&hide_border=true" />
 </a>
 
 <!-- Here are some ideas to get you started:
