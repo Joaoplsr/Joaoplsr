@@ -1,7 +1,7 @@
 # 🎸 João Pedro
 **`Desenvolvedor Back-end`**
 
-Me chamo João Pedro Leal e tenho 18 anos. Sou uma pessoa dedicada, com princípios sólidos e um compromisso constante em alcançar a excelência. Atualmente, estou aprofundando meus conhecimentos em tecnologias back-end por meio da minha formação em Engenharia de Software na faculdade Estácio, priorizando linguagens como PHP e Python, além de bancos de dados PostgreSQL e frameworks como ReactJs e Laravel. Tecnologia sempre foi uma paixão, e por isso, quero absorver o máximo de conhecimento e, sempre que possível, compartilhá-lo.
+Me chamo João Pedro Leal e tenho 20 anos. Sou uma pessoa dedicada, com princípios sólidos e um compromisso constante em alcançar a excelência. Atualmente, estou aprofundando meus conhecimentos em tecnologias back-end por meio da minha formação em Engenharia de Software na faculdade Estácio, priorizando linguagens como PHP e Python, além de bancos de dados PostgreSQL e frameworks como ReactJs e Laravel. Tecnologia sempre foi uma paixão, e por isso, quero absorver o máximo de conhecimento e, sempre que possível, compartilhá-lo.
 
 <p align="left">
 
